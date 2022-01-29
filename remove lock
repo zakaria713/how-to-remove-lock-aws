@@ -1,0 +1,1 @@
+terraform force-unlock [options] LOCK_ID [DIR]
